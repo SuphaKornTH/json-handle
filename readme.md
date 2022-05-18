@@ -6,7 +6,7 @@
 ```
 npm i json-handle
 ```
-https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#example-usage
+
 # Features & Index
    - [Example usage](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#example-usage)
       - [Importing](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#importing)
