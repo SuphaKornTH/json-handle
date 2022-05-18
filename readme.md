@@ -6,17 +6,17 @@
 ```
 npm i json-handle
 ```
-
+https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#example-usage
 # Features & Index
-   - [Example usage](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#example-usage)
-      - [Importing](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#importing)
-      - [Set Response Time](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#set-response-time)
-      - [Create JsonHandling](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#creating-json-handle)
-      - [Write Data](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#write-method)
-      - [Update Data](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#update-method)
-      - [Erase Data](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#erase-method)
-      - [Get Data](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#get-method)
-   - [Links](https://github.com/SuphaKornTH/json-handle/blob/main/readme.md#links)
+   - [Example usage](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#example-usage)
+      - [Importing](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#importing)
+      - [Set Response Time](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#set-response-time)
+      - [Create JsonHandling](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#creating-json-handle)
+      - [Write Data](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#write-method)
+      - [Update Data](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#update-method)
+      - [Erase Data](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#erase-method)
+      - [Get Data](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#get-method)
+   - [Links](https://github.com/SuphaKornTH/json-handle/blob/README.md/readme.md#links)
 
 # Example usage
 ### Importing
