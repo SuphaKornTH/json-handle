@@ -1,0 +1,24 @@
+{
+  "name": "json-handle",
+  "version": "2.1.7-0",
+  "description": "For handle json files, we originally designed it for writing json databases, but now we will modify it to work on other side as well. (Fixed from `json.handling`)",
+  "main": "./JsonHandle.js",
+  "types": "./JsonHandle.d.ts",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json manager",
+    "json management",
+    "json handle",
+    "handle",
+    "management",
+    "json"
+  ],
+  "author": "SupYay",
+  "license": "MIT"
+}
